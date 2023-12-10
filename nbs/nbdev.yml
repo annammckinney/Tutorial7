@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Tutorial7"
+  site-url: "https://annammckinney.github.io/Tutorial7"
+  description: "Tutorial7"
+  repo-branch: main
+  repo-url: "https://github.com/annammckinney/Tutorial7"
